@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "SecurityController",
+    "Method": "Post",
+    "RelativePath": "api/security",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "encryptedData",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

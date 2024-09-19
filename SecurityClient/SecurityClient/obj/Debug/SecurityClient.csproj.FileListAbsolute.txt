@@ -1,0 +1,7 @@
+C:\Users\sebas\source\repos\SecurityClient\SecurityClient\bin\Debug\SecurityClient.exe.config
+C:\Users\sebas\source\repos\SecurityClient\SecurityClient\bin\Debug\SecurityClient.exe
+C:\Users\sebas\source\repos\SecurityClient\SecurityClient\bin\Debug\SecurityClient.pdb
+C:\Users\sebas\source\repos\SecurityClient\SecurityClient\obj\Debug\SecurityClient.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\SecurityClient\SecurityClient\obj\Debug\SecurityClient.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\SecurityClient\SecurityClient\obj\Debug\SecurityClient.exe
+C:\Users\sebas\source\repos\SecurityClient\SecurityClient\obj\Debug\SecurityClient.pdb
